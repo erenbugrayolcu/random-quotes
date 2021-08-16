@@ -5,7 +5,8 @@ function generate(){
         "- C.S. Lewis" : "I was not born to be free---I was born to adore and obey.",
         "- John Galsworthy" : "Life calls the tune, we dance.",
         "- Jenny Valentine" : "Even when you’d lost everything you thought there was to lose, somebody came along and gave you something for free.",
-        "- Adam Jensen : "I never asked for this."
+        "- Adam Jensen" : "I never asked for this.",
+        "- Elit Koruyucu" : "Sa"
     }
 
     var authors = Object.keys(quotes);

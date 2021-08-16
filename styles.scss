@@ -1,0 +1,44 @@
+body{
+    background: #06bcc1;
+}
+
+.container{
+    width: 95%;
+    height: 100vh;
+    display: flex;
+}
+
+.quotes{
+    width: 900px;
+    height: 450px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 50px;
+    color: gray;
+    background: #f4edea;
+    border: 10px solid #f4d1ae;
+
+    p, h3{
+        font-size: 1.5rem;
+        text-align: center;
+    }
+
+}
+
+.btn-success{
+    margin-top: -400px;
+    padding: 15px 30px;
+}
+
+@media(max-width:1000px){
+    p, h3{
+        font-size: 1rem;
+    }
+    .btn-success{
+        margin-top: 0;
+        padding: 15px 30px;
+    }
+}

@@ -1,13 +1,18 @@
 function generate(){
     var quotes = {
-        "- Albert Einstein" : "Our task must be to free ourselves... by widening our circle of compassion to embrace all living creatures and the whole of nature and it's beauty.",
-        "- Alysha Speer" : "You never really know what's coming. A small wave, or maybe a big one. All you can really do is hope that when it comes, you can surf over it, instead of drown in its monstrosity.",
-        "- C.S. Lewis" : "I was not born to be free---I was born to adore and obey.",
-        "- John Galsworthy" : "Life calls the tune, we dance.",
-        "- Jenny Valentine" : "Even when you’d lost everything you thought there was to lose, somebody came along and gave you something for free.",
+        "- Nida Bey" : "? Neden",
+        "- Ahmet Asım Maden" : "Efe Yular",
+        "- Bedenci" : "Gençlerrrr deerss baaşlaadıııııııı dımtıs dımtıs",
+        "- Onur Döğenci" : "Valorantı bıraktım",
+        "- Behiç Tağ" : "Mercedes Mercedes Mercedes",
         "- Adam Jensen" : "I never asked for this.",
         "- Elit Koruyucu" : "Sa",
-        "- Efe Yular" : "Ahh yine 5 burn içtim kafam nasıl güzel anlatamam lütfen yazmayın kızlaaaar...." 
+        "- Efe Yular" : "Ahh yine 5 burn içtim kafam nasıl güzel anlatamam lütfen yazmayın kızlaaaar....",
+        "- Eren Buğra Yolcu" : "Forza Horizon 5 çıksın alcam",
+        "- Emirhan Dinç" : "Ozur",
+        "- Rüzgar Karakaya" : "Abi benimle migrosa gelir misin İninal Kart'a para yüklicem de",
+        "- Yasin Karakaya" : "...",
+        "- Emir Karakaya" : "İKARUS LEENDİİNGGGG"
     }
 
     var authors = Object.keys(quotes);

@@ -6,7 +6,8 @@ function generate(){
         "- John Galsworthy" : "Life calls the tune, we dance.",
         "- Jenny Valentine" : "Even when you’d lost everything you thought there was to lose, somebody came along and gave you something for free.",
         "- Adam Jensen" : "I never asked for this.",
-        "- Elit Koruyucu" : "Sa"
+        "- Elit Koruyucu" : "Sa",
+        "- Efe Yular" : "Ahh yine 5 burn içtim kafam nasıl güzel anlatamam lütfen yazmayın kızlaaaar...." 
     }
 
     var authors = Object.keys(quotes);
